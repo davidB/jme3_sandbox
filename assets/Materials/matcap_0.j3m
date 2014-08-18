@@ -1,0 +1,16 @@
+Material MyMaterial : ShaderBlow/MatDefs/MatCap/MatCap.j3md {
+    MaterialParameters {
+        DiffuseMap : Textures/mapcap_0.png
+    }
+    AdditionalRenderState {
+      FaceCull Back
+      Wireframe Off
+      DepthWrite On
+      PolyOffset 0.0 0.0
+      AlphaTestFalloff 0.0
+      Blend Off
+      PointSprite Off
+      ColorWrite On
+      DepthTest On
+    }
+}
