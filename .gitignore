@@ -16,3 +16,6 @@ lib
 /.project
 /.factorypath
 /.settings
+/nbproject/private/config.properties
+/nbproject/private/private.properties
+/nbproject/private/private.xml
