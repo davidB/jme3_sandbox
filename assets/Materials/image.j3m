@@ -1,0 +1,7 @@
+Material My Material : Common/MatDefs/Misc/Unshaded.j3md {
+     MaterialParameters {
+        ColorMap : Flip com/jme3/app/Monkey.png
+     }
+    AdditionalRenderState {
+    }
+}
