@@ -1,0 +1,18 @@
+build
+target
+lib
+*.class
+*.so
+*.dll
+*.jar
+/dist/
+.gradle
+*.blend1
+*.blend2
+
+# eclipse
+/bin/
+/.classpath
+/.project
+/.factorypath
+/.settings
